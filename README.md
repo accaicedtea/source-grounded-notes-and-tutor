@@ -7,4 +7,4 @@ Skill modulare per **Claude Code** che trasforma slide, appunti ed esami passati
 Apri il terminale nella cartella del tuo progetto e lancia:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/IL_TUO_USERNAME/source-grounded-notes-and-tutor/main/install.sh](https://raw.githubusercontent.com/accaicedtea/source-grounded-notes-and-tutor/main/install.sh) | bash
+curl -sSL [https://raw.githubusercontent.com/accaicedtea/source-grounded-notes-and-tutor/main/install.sh](https://raw.githubusercontent.com/accaicedtea/source-grounded-notes-and-tutor/main/install.sh) | bash
